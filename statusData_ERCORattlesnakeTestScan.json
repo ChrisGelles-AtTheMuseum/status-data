@@ -10,5 +10,10 @@
     "On Hold": 1,
     "Not started": 2,
     "Scheduled": 1
+  },
+  "20230729": {
+    "Done": 2,
+    "BLOCKED": 1,
+    "Not started": 2
   }
 }

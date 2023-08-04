@@ -1,5 +1,10 @@
 {
-  "20230803": {},
+  "20230803": {
+      "Done": 15,
+    "Not started": 19,
+    "In progress": 1,
+    "Scheduled": 3
+  },
   "20230804": {
     "Done": 15,
     "Not started": 19,

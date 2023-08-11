@@ -14,5 +14,10 @@
   "20230729": {
     "BLOCKED": 3,
     "Not started": 1
+  },
+  "20230811": {
+    "BLOCKED": 2,
+    "In progress": 1,
+    "Done": 1
   }
 }
